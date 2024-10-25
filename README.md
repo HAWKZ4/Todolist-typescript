@@ -1,4 +1,3 @@
-```markdown
 # Simple Todo List - TypeScript, Vite
 
 A minimalist todo list application built with **HTML**, **CSS**, and **TypeScript** using **Vite**. This project demonstrates the use of TypeScript classes for managing a todo list, supporting basic functionality such as adding, deleting, clearing, and marking tasks as completed.
